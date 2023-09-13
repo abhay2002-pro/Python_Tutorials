@@ -1,0 +1,4 @@
+Python 3 came in 2008
+The differences weren't very siginificant
+print 'hello world!' -> Python 2
+print ('hello world!') -> Python 3
